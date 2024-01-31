@@ -1,0 +1,11 @@
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\bin\Debug\net8.0\RepostriyUOW.core.deps.json
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\bin\Debug\net8.0\RepostriyUOW.core.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\bin\Debug\net8.0\RepostriyUOW.core.pdb
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.AssemblyInfoInputs.cache
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.AssemblyInfo.cs
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.csproj.CoreCompileInputs.cache
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\refint\RepostriyUOW.core.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\RepostriyUOW.core.pdb
+D:\BACKEND COURSE\RepostriyUOW\RepostryUOW.core\obj\Debug\net8.0\ref\RepostriyUOW.core.dll
