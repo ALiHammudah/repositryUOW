@@ -1,0 +1,15 @@
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\bin\Debug\net8.0\RepostriyUOW.EF.deps.json
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\bin\Debug\net8.0\RepostriyUOW.EF.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\bin\Debug\net8.0\RepostriyUOW.EF.pdb
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.csproj.AssemblyReference.cache
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.AssemblyInfoInputs.cache
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.AssemblyInfo.cs
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.csproj.CoreCompileInputs.cache
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\refint\RepostriyUOW.EF.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.pdb
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\ref\RepostriyUOW.EF.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\bin\Debug\net8.0\RepostriyUOW.core.dll
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\bin\Debug\net8.0\RepostriyUOW.core.pdb
+D:\BACKEND COURSE\RepostriyUOW\RepostriyUOW.EF\obj\Debug\net8.0\RepostriyUOW.EF.csproj.CopyComplete
